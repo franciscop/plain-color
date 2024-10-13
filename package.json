@@ -11,6 +11,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
-    "@server/next": "^0.21.0"
+    "@server/next": "^0.21.0",
+    "bun": "^1.1.30"
   }
 }
