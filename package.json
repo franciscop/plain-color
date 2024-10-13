@@ -1,0 +1,16 @@
+{
+  "name": "plain-color",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "bun ."
+  },
+  "packageManager": "bun@1",
+  "keywords": [],
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "@server/next": "^0.21.0"
+  }
+}
